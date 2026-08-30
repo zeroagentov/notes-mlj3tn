@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zeroagentov.github.io/notes-mlj3tn/sitemap.xml
